@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using NUnit.Framework;
 using Shouldly;
 using Booking.Abstractions.DataTransfer.Internal;
@@ -91,8 +91,9 @@ namespace Booking.UnitTests
             List<IFlight> result = new List<IFlight>();
             result = (List<IFlight>)_flightService.Search(options);
 
-            //Check if the departure date and time should be in ascending order when price is the same
-            Utils.IsDepartureDateTimeAcsendingOrder(result.FindAll(x => x.PriceSterling == 150)).ShouldBe(true);
+            //Check if the departure date and time should be in ascending order
+            Utils.IsDepartureDateTimeAcsendingOrder(result.FindAll(x => x.Airline.ToString()== "BritishAirways")).ShouldBe(true);
+            Utils.IsDepartureDateTimeAcsendingOrder(result.FindAll(x => x.Airline.ToString() == "EasyJet")).ShouldBe(true);
 
             //Check other information in the results
             result.All(x => x.DepartureCode == "LHR").ShouldBe(true);
@@ -177,7 +178,7 @@ namespace Booking.UnitTests
             result.Count().ShouldBe(0);
         }
 
-        //Negative test 03: Search for an invalid date time range
+        //Negative test 04: Search for an invalid date time range
         [Test]
         public void NegativeTest04()
         {
@@ -203,4 +204,3 @@ namespace Booking.UnitTests
         }
     }
 }
-
