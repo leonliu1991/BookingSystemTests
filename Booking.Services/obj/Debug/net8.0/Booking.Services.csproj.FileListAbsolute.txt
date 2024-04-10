@@ -1,0 +1,16 @@
+/Users/xianhaoliu/Downloads/Tests/tester-test/Booking.Services/bin/Debug/net8.0/Booking.Services.deps.json
+/Users/xianhaoliu/Downloads/Tests/tester-test/Booking.Services/bin/Debug/net8.0/Booking.Services.dll
+/Users/xianhaoliu/Downloads/Tests/tester-test/Booking.Services/bin/Debug/net8.0/Booking.Services.pdb
+/Users/xianhaoliu/Downloads/Tests/tester-test/Booking.Services/bin/Debug/net8.0/Booking.Abstractions.dll
+/Users/xianhaoliu/Downloads/Tests/tester-test/Booking.Services/bin/Debug/net8.0/Booking.Abstractions.pdb
+/Users/xianhaoliu/Downloads/Tests/tester-test/Booking.Services/obj/Debug/net8.0/Booking.Services.csproj.AssemblyReference.cache
+/Users/xianhaoliu/Downloads/Tests/tester-test/Booking.Services/obj/Debug/net8.0/Booking.Services.GeneratedMSBuildEditorConfig.editorconfig
+/Users/xianhaoliu/Downloads/Tests/tester-test/Booking.Services/obj/Debug/net8.0/Booking.Services.AssemblyInfoInputs.cache
+/Users/xianhaoliu/Downloads/Tests/tester-test/Booking.Services/obj/Debug/net8.0/Booking.Services.AssemblyInfo.cs
+/Users/xianhaoliu/Downloads/Tests/tester-test/Booking.Services/obj/Debug/net8.0/Booking.Services.csproj.CoreCompileInputs.cache
+/Users/xianhaoliu/Downloads/Tests/tester-test/Booking.Services/obj/Debug/net8.0/Booking.Services.sourcelink.json
+/Users/xianhaoliu/Downloads/Tests/tester-test/Booking.Services/obj/Debug/net8.0/Booking..5F15C8D1.Up2Date
+/Users/xianhaoliu/Downloads/Tests/tester-test/Booking.Services/obj/Debug/net8.0/Booking.Services.dll
+/Users/xianhaoliu/Downloads/Tests/tester-test/Booking.Services/obj/Debug/net8.0/refint/Booking.Services.dll
+/Users/xianhaoliu/Downloads/Tests/tester-test/Booking.Services/obj/Debug/net8.0/Booking.Services.pdb
+/Users/xianhaoliu/Downloads/Tests/tester-test/Booking.Services/obj/Debug/net8.0/ref/Booking.Services.dll

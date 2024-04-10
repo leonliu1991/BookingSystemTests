@@ -1,0 +1,12 @@
+/Users/xianhaoliu/Downloads/Tests/tester-test/Booking.Abstractions/bin/Debug/net8.0/Booking.Abstractions.deps.json
+/Users/xianhaoliu/Downloads/Tests/tester-test/Booking.Abstractions/bin/Debug/net8.0/Booking.Abstractions.dll
+/Users/xianhaoliu/Downloads/Tests/tester-test/Booking.Abstractions/bin/Debug/net8.0/Booking.Abstractions.pdb
+/Users/xianhaoliu/Downloads/Tests/tester-test/Booking.Abstractions/obj/Debug/net8.0/Booking.Abstractions.GeneratedMSBuildEditorConfig.editorconfig
+/Users/xianhaoliu/Downloads/Tests/tester-test/Booking.Abstractions/obj/Debug/net8.0/Booking.Abstractions.AssemblyInfoInputs.cache
+/Users/xianhaoliu/Downloads/Tests/tester-test/Booking.Abstractions/obj/Debug/net8.0/Booking.Abstractions.AssemblyInfo.cs
+/Users/xianhaoliu/Downloads/Tests/tester-test/Booking.Abstractions/obj/Debug/net8.0/Booking.Abstractions.csproj.CoreCompileInputs.cache
+/Users/xianhaoliu/Downloads/Tests/tester-test/Booking.Abstractions/obj/Debug/net8.0/Booking.Abstractions.sourcelink.json
+/Users/xianhaoliu/Downloads/Tests/tester-test/Booking.Abstractions/obj/Debug/net8.0/Booking.Abstractions.dll
+/Users/xianhaoliu/Downloads/Tests/tester-test/Booking.Abstractions/obj/Debug/net8.0/refint/Booking.Abstractions.dll
+/Users/xianhaoliu/Downloads/Tests/tester-test/Booking.Abstractions/obj/Debug/net8.0/Booking.Abstractions.pdb
+/Users/xianhaoliu/Downloads/Tests/tester-test/Booking.Abstractions/obj/Debug/net8.0/ref/Booking.Abstractions.dll

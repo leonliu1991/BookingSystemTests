@@ -1,0 +1,25 @@
+{
+  "version": 2,
+  "dgSpecHash": "I6hRUpatbFraB2w6w2o0Ya5Kj+vaxsk34zcl9++tDPOiznK+ad6sYpMr4QdypFkRyuQIfxWOPmUvRhSB12kfCQ==",
+  "success": true,
+  "projectFilePath": "/Users/xianhaoliu/Downloads/Tests/tester-test/Booking.UnitTests/Booking.UnitTests.csproj",
+  "expectedPackageFiles": [
+    "/Users/xianhaoliu/.nuget/packages/castle.core/5.1.1/castle.core.5.1.1.nupkg.sha512",
+    "/Users/xianhaoliu/.nuget/packages/diffengine/11.3.0/diffengine.11.3.0.nupkg.sha512",
+    "/Users/xianhaoliu/.nuget/packages/emptyfiles/4.4.0/emptyfiles.4.4.0.nupkg.sha512",
+    "/Users/xianhaoliu/.nuget/packages/microsoft.codecoverage/17.9.0/microsoft.codecoverage.17.9.0.nupkg.sha512",
+    "/Users/xianhaoliu/.nuget/packages/microsoft.net.test.sdk/17.9.0/microsoft.net.test.sdk.17.9.0.nupkg.sha512",
+    "/Users/xianhaoliu/.nuget/packages/microsoft.testplatform.objectmodel/17.9.0/microsoft.testplatform.objectmodel.17.9.0.nupkg.sha512",
+    "/Users/xianhaoliu/.nuget/packages/microsoft.testplatform.testhost/17.9.0/microsoft.testplatform.testhost.17.9.0.nupkg.sha512",
+    "/Users/xianhaoliu/.nuget/packages/moq/4.20.70/moq.4.20.70.nupkg.sha512",
+    "/Users/xianhaoliu/.nuget/packages/newtonsoft.json/13.0.1/newtonsoft.json.13.0.1.nupkg.sha512",
+    "/Users/xianhaoliu/.nuget/packages/nunit/4.1.0/nunit.4.1.0.nupkg.sha512",
+    "/Users/xianhaoliu/.nuget/packages/nunit3testadapter/4.5.0/nunit3testadapter.4.5.0.nupkg.sha512",
+    "/Users/xianhaoliu/.nuget/packages/shouldly/4.2.1/shouldly.4.2.1.nupkg.sha512",
+    "/Users/xianhaoliu/.nuget/packages/system.codedom/6.0.0/system.codedom.6.0.0.nupkg.sha512",
+    "/Users/xianhaoliu/.nuget/packages/system.diagnostics.eventlog/6.0.0/system.diagnostics.eventlog.6.0.0.nupkg.sha512",
+    "/Users/xianhaoliu/.nuget/packages/system.management/6.0.1/system.management.6.0.1.nupkg.sha512",
+    "/Users/xianhaoliu/.nuget/packages/system.reflection.metadata/1.6.0/system.reflection.metadata.1.6.0.nupkg.sha512"
+  ],
+  "logs": []
+}
