@@ -16,7 +16,7 @@ namespace Booking.UnitTests.Common
                     break;
                 }
             }
-            return true;
+            return isAscending;
         }
 	}
 }
